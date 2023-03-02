@@ -12,10 +12,10 @@
 Abaixo você pode conferir as minhas estatísticas atuais aqui no GitHub:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" align="center" alt = "Status do meu Github" src="https://github-readme-stats.vercel.app/api?username=josanbehrends&show_icons=true&theme=merko" />
+  <img height="150em" width="40%" align="center" alt = "Status do meu Github" src="https://github-readme-stats.vercel.app/api?username=josanbehrends&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height = "150em" align="center" alt ="Estatísticas de uso das linguagens dos meus projetos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josanbehrends&hide_progress=true" />
+  <img height = "150em" width="40%" align="center" alt ="Estatísticas de uso das linguagens dos meus projetos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josanbehrends&hide_progress=true" />
 </a>
 
 <hr>
