@@ -1,7 +1,6 @@
 ### Olá, me chamo Josan Behrends 👋
 
 <p> 🎓 Estou cursando o último período de Engenharia Civil, tenho 25 anos </p>
-<p> 📌 Moro no Rio de Janeiro, Brasil.
 <p> 🔃 Atualmente estou em transição de carreira e vou me aventurar na área de programação, mais especificamente em Front-End </p>
 <p> 📈 Estou realizando todo o meu progresso de estudos por meio da Alura onde já sou formado em HTML, CSS e JavaScript </p>
 <p> 🔍 Estou à procura do meu primeiro emprego na área </p>
