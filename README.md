@@ -1,8 +1,10 @@
 ### Olá, me chamo Josan Behrends 👋
 
-<p> 🎓 Estou cursando o último período de Engenharia Civil, tenho 25 anos </p>
-<p> 🔃 Atualmente estou em transição de carreira e vou me aventurar na área de programação, mais especificamente em Front-End </p>
-<p> 📈 Estou realizando todo o meu progresso de estudos por meio da Alura onde já sou formado em HTML, CSS e JavaScript </p>
+<p> 🎓 Formado em <b>Engenharia Civil</b> pela UERJ </p>
+<p> 🎓 Formado em <b>Inglês</b> pelo CNA (Avançado), estou prestes a realizar a prova de Cambridge </p>
+<p> :joystick: Co-fundador do jogo <b>SkyMU</b>. Acesse: https://skymu.net/ </p>
+<p> 🔃 <b>Transição</b> de carreira para a área de programação, mais especificamente em Front-End </p>
+<p> 📈 Estudo programação a <b>1 ano</b> pela Alura onde já possuo mais de 35 cursos realizados </p>
 <p> 🔍 Estou à procura do meu primeiro emprego na área </p>
 
 <hr>
