@@ -2,7 +2,6 @@
 
 <p> 🎓 Formado em <b>Engenharia Civil</b> pela UERJ </p>
 <p> 🎓 Formado em <b>Inglês</b> pelo CNA (Avançado), estou prestes a realizar a prova de Cambridge </p>
-<p> :joystick: Co-fundador do jogo <b>SkyMU</b>. Acesse: https://skymu.net/ </p>
 <p> 🔃 <b>Transição</b> de carreira para a área de programação, mais especificamente em Front-End </p>
 <p> 📈 Estudo programação a <b>1 ano</b> pela Alura onde já possuo mais de 41 cursos realizados </p>
 <p> 🔍 Estou à procura do meu primeiro emprego na área </p>
